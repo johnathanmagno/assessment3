@@ -17,4 +17,4 @@ function handleMouseOver(evt) {
 let form = document.querySelector('#contact');
 
 form.addEventListener('submit', handleSubmit);
-thora.addEventListener('mouseover', handleMouseOver);
+thora.addEventListener('mouseover', handleMouseOver);``
