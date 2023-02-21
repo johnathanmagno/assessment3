@@ -24,9 +24,9 @@ function favoriteRitual(evt) {
 	
 	alert("Playing music!");
     audio.play();
-
-
 }
+
+
 
 color.addEventListener('click', favoriteColor);
 place.addEventListener('click', favoritePlace);
